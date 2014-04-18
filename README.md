@@ -24,11 +24,11 @@ Since our professor requires that everyone must participate in the project, I th
 
 ## How to accomplish those tasks?
 
-For those responsible for programs exchanging students from SCUT to BYU, please refer to this;
+For those responsible for programs exchanging students from SCUT to BYU, please refer to [this](https://github.com/wattlebird/BYU_SCUT_EXCHANGE_PT/blob/master/SCUT_to_BYU_guide.md);
 
-For those responsible for programs exchanging students from BYU to SCUT, please refer to this;
+For those responsible for programs exchanging students from BYU to SCUT, please refer to [this](https://github.com/wattlebird/BYU_SCUT_EXCHANGE_PT/blob/master/BYU_to_SCUT_guide.md);
 
-For the PowerPoint document Prof. Anderson presented to us, please refer to this.
+For the PowerPoint document Prof. Anderson presented to us, please refer to [this](https://github.com/wattlebird/BYU_SCUT_EXCHANGE_PT/blob/master/BYU_SCUT_Student_Exchange_PPT.pptx?raw=true).
 
 ## Timeline of the project
 
