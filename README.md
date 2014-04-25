@@ -31,6 +31,12 @@ For those responsible for programs exchanging students from BYU to SCUT, please 
 
 For the PowerPoint document Prof. Anderson presented to us, please refer to [this](https://github.com/wattlebird/BYU_SCUT_EXCHANGE_PT/blob/master/BYU_SCUT_Student_Exchange_PPT.pptx?raw=true).
 
+## Where to find everyone else's outline?
+
+Ronnie's outline is [here](https://github.com/wattlebird/BYU_SCUT_EXCHANGE_PT/blob/master/Ronnie/Outline.md);
+
+Other's outline are under review, but you can go to the corresponding folder to get the raw doc file.
+
 ## Timeline of the project
 
 | Time                     | Task                                                                     |
